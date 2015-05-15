@@ -2,23 +2,27 @@
 	//background: url( 'assets/together.png');
 	background-size: 100% auto;
 	background-position: 50% 50%;
-	background:#000;
+	background:#fff;
 
 }
 
 body{
-		background: #000;
+		background: #fff;
 }
 
 .container{
 
-	background: #000;
-	color:#fff;
+	background: #fff;
+	//color:#fff;
 
 }
 .jumbotron .container{
 	background: none;
-	color:#fff;
+	//color:#fff;
+}
+
+.col-md-6{
+	padding-bottom: 30px;
 }
 
 .images img{
